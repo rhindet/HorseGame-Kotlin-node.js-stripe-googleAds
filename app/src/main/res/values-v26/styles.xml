@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="termsStyle" parent="Theme.AppCompat.Light">
+        <item name="android:textColor">#FAF8EF</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:justificationMode">inter_word</item>
+    </style>
+    <style name="termsTitleStyle" parent="Theme.AppCompat.Light">
+        <item name="android:textColor">#FAF8EF</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

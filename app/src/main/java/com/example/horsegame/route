@@ -1,0 +1,25 @@
+1.-mejoramos las funcionalidades existentes.
+2.-mejoramos la UX de las funcionalidades existentes
+3.-añadir nuevas funcionalidades
+
+
+ERRORES
+* Cundo pasas al segundo nivel sale anuncio se cierra y tq quita una vida y te lleva al nivel 3
+
+MEJORAS DE UX(experiencia de usuario)
+* un color para el punto actual y otro para el rastro
+* mostrar opciones de movimiento
+
+
+Funcionalidades
+* inicio aleatorio
+* poder mover el caballo comprobando el movimiento de L
+* pintar niveles y limpiarlos
+* control de movimientos
+* control de opciones
+* control de tiempo
+* control de vida
+* mostrar publicidad
+* permitir pagar para ser premium
+* habilitar accesos de premium para mas niveles y deshabilitar publicidad
+* compartir resultado
